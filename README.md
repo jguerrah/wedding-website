@@ -1,6 +1,6 @@
 # Wedding Website
 
-Website de mi boda, inspirado en este _(template)[https://invitacion-amorosa.queridaboda.com/]_
+Website de mi boda, inspirado en este _[template](https://invitacion-amorosa.queridaboda.com/)_
 
 # Highlights
 
